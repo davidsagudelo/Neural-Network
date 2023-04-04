@@ -8,6 +8,9 @@ The current admission dataset was created for the prediction of admissions into 
 Specifics:
 
 Machine Learning task: Classification model
+
 Target variable: Admit_Chance
+
 Input variables: Refer to data dictionary below
+
 Success Criteria: Accuracy of 90% and above
